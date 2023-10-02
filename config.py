@@ -1,0 +1,1 @@
+news_key='482600d0d612415b9aaebc1ce25dd9b4'
